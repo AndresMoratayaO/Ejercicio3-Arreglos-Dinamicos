@@ -2,6 +2,13 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+## Nombre
+Andrés Morataya
+## Carnet
+26497
+## Ejercicio
+Arreglos Dinámicos Ejercicio3
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
